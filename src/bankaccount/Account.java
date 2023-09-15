@@ -9,7 +9,7 @@ package bankaccount;
  *
  * @author User
  */
-public class accountchar {
+public class Account {
     private int accountnumber;
     private float balance;
     private String name;
