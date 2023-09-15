@@ -15,7 +15,7 @@ public class Bankaccount {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        accountchar acc = new accountchar();
+        Account acc = new Account();
         acc.setAccountnumber(12345);
         acc.setBalance(10);
         acc.setName("Failure");
